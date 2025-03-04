@@ -27,6 +27,8 @@ Atualmente estudo no IFPR Campus Colombo, na região metropolitana de curitiba. 
 <br>
 ou me mande uma mensagem via Email! gustavo7234.mf@gmail.com
 
-  
+---
+  <div align="center">
 ![Digis GitHub stats](https://github-readme-stats.vercel.app/api?username=Digiss&show_icons=true&theme=dark)
 
+</div>
