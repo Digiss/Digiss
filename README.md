@@ -1,4 +1,4 @@
-## Olá, eu sou o Gustavo! 👋
+## Olá, me chamo Gustavo! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Desenvolvedor+FrontEnd+em+constante+evolução)](https://git.io/typing-svg)
 
