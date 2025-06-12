@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=Desenvolvedor+FrontEnd+em+constante+evolução)](https://git.io/typing-svg)
 
 ### Sobre mim:
-Atualmente estudo no IFPR Campus Colombo, na região metropolitana de curitiba. Estou focando em melhorar minhas habilidades como dev FrontEnd por enquanto e pretendo estudar mais o BackEnd posteriormente. Adoro toda a lógica que é utilizada na criação de um projeto inteiro e os desafios e experiências que consigo adquirir com o tempo trabalhando em alguns desses. Atualmente trabalho no Banco Nacional de Empregos (BNE) como programador FrontEnd e organizador de alguns projetos para uso interno da empresa.
+Atualmente estudo no IFPR Campus Colombo, na região metropolitana de curitiba. Estou focando em melhorar minhas habilidades como dev FrontEnd por enquanto e pretendo estudar mais o BackEnd posteriormente. Adoro toda a lógica que é utilizada na criação de um projeto inteiro e os desafios e experiências que consigo adquirir com o tempo trabalhando em alguns desses. Atualmente trabalho no Banco Nacional de Empregos (BNE) na sede de Colombo/PR como Estágiario da equipe de Desenvolvimento FrontEnd do Lugarh (Um outro produto correlacionado ao BNE).
 
 ---
 
