@@ -1,7 +1,8 @@
 <h1 align="center" margin-left="300px">Hello, my name is Gustavo <img height="40" margin-top="50%" src="https://media.tenor.com/c9jE4z5NDmIAAAAi/cool-emoji.gif"></h1>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=6C63FE&center=true&vCenter=true&multiline=true&random=false&width=700&height=40&lines=FrontEnd+Developer+in+constant+evolution)](https://git.io/typing-svg)
-
+</div>
 ### About Me:
 I am currently studying at IFPR Campus Colombo, in the metropolitan region of Curitiba, Brazil.  
 Right now, I'm focusing on improving my skills as a Front-End developer and plan to dive deeper into Back-End development later.  
